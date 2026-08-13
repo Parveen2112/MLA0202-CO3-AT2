@@ -1,3 +1,7 @@
+print("=" * 50)
+print("Name: Parveen")
+print("Wine K-Means Clustering Case Study")
+print("=" * 50)
 import pandas as pd
 import matplotlib.pyplot as plt
 import glob
